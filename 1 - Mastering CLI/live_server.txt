@@ -1,0 +1,1 @@
+Live Server is mainly for front-end development with live reloading, while Laragon and XAMPP provide a full server environment for back-end and full-stack development, especially with PHP
