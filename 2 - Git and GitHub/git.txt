@@ -21,3 +21,8 @@ git commit -m "This is the description."
 
 - View the commit history
 git log
+
+- git command
+git branch -a : to list all branches
+git branch {branch_name} : to create a new branch
+git checkout {branch_name} : to change working branch
